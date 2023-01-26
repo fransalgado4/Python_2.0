@@ -1,0 +1,52 @@
+{
+  "librería": {
+    "libro": [
+      {
+        "título": {
+          "_lang": "es",
+          "__text": "Italiano cotidiano"
+        },
+        "autor": "Giada De Laurentiis",
+        "año": "2005",
+        "precio": "30,00",
+        "_category": "COCINAR"
+      },
+      {
+        "título": {
+          "_lang": "es",
+          "__texto": "Harry Potter"
+        },
+        "autor": "J.K. Rowling",
+        "año": "2005",
+        "precio": "29,99",
+        "_category": "NIÑOS"
+      },
+      {
+        "título": {
+          "_lang": "es",
+          "__text": "Inicio rápido de XQuery"
+        },
+        "autor": [
+          "James McGovern",
+          "Por Bothner",
+          "Kurt Cagle",
+          "James Linn",
+          "Vaidyanathan Nagarajan"
+        ],
+        "año": "2003",
+        "precio": "49,99",
+        "_category": "RED"
+      },
+      {
+        "título": {
+          "_lang": "es",
+          "__text": "XML de aprendizaje"
+        },
+        "autor": "Erik T. Ray",
+        "año": "2003",
+        "precio": "39,95",
+        "_category": "RED"
+      }
+    ]
+  }
+}
